@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
+"U2",1,"PCF8574-based, 38 (0x26) LCD 16 x 2 (I2C)"
